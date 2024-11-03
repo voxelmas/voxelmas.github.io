@@ -12,7 +12,7 @@ title = "Voxelmas"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Voxelmas is a new challange to promote voxel art in the 24 days before Christmas!"
-  copyright = "Copyright (c) { year } Mahid Sheikh"
+  copyright = "Copyright (c) { year } [Mahid Sheikh](https://www.standingpad.org/about/)"
 
 # [params.author]
 #   name = "Your name here"
