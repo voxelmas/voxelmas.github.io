@@ -7,6 +7,8 @@ Voxelmas has 2 different options: 1 prompt over 24 days, or 12 prompts over 24 d
 (2 days each), to allow for maximum flexibility (after all, it's the holiday season
 :D)
 
+When you're done, post your image on social media and tag it with #voxelmas
+
 {{< image src="prompt_2024.webp" alt="2024 Prompts" position="center" style="border-radius: 8px;" >}}
 
 ## FAQ
