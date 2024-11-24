@@ -7,10 +7,6 @@ Voxelmas has 2 different options: 1 prompt over 24 days, or 12 prompts over 24 d
 (2 days each), to allow for maximum flexibility (after all, it's the holiday season
 :D)
 
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-Prompts not finalized until November 24th, subject to change.
-{{< /alert >}}
-
 {{< image src="prompt_2024.webp" alt="2024 Prompts" position="center" style="border-radius: 8px;" >}}
 
 ## FAQ
